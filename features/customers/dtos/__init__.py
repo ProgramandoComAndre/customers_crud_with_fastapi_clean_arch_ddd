@@ -1,0 +1,1 @@
+from .register_new_customer_dto import RegisterNewCustomerDto
